@@ -3,4 +3,5 @@
 1- git init
 2- git add .
 3- git reset .
-git commit
+4- git commit -m "Texto texto texto"
+5- git checkout -- .
